@@ -1,0 +1,42 @@
+toy1{
+    color: red;
+}
+.nice1{
+    color: indigo;
+    font-size: 20px;
+    background: lemonchiffon;
+}
+.nice1:hover{
+  background: aqua ; 
+}
+.now{
+    color: red
+}
+
+.nice4{
+    color: firebrick;
+    font-size: 60px;
+    font-weight: 30px;
+    font-family: 'Amatic SC', cursive;
+}
+body{
+    background: url(Flag_of_South_Korea.gif);
+}
+.toy2{
+    color: blue;
+}
+.toy3{
+    color: crimson;
+}
+.nice5{
+    color: black;
+}
+p{
+    background: rgb(193, 57, 252) ;
+}
+p:hover{
+background: gold;
+}
+.block{
+    color: red;
+}

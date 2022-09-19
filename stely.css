@@ -1,0 +1,90 @@
+h1{
+    color:rgb(66, 80, 208);
+    font-size: 60px;
+    font-weight: 30px;
+    font-family: 'Amatic SC', cursive;
+}
+h2{
+    color: rgb(82, 196, 158);
+    font-family: 'Amatic SC', cursive;
+}
+.box2{
+    color:blue;
+}
+.box3{
+    color: blueviolet;
+}
+
+.block{
+    background: lime;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+    border: 10px solid  green;
+    border-radius: 50px;
+    box-shadow: 0 0 0 0 green;
+    transition: 1s;
+    
+}
+
+.block:hover{
+    background: yellow;
+    box-shadow: tan;
+    border-radius: 50%;
+}
+img{
+    box-shadow: 0 0 15px brown;
+}
+img:hover{
+    border-radius:50px;
+}
+
+body{
+    background: url(po-miru.jpg) no-repeat center center / cover;
+}
+
+.Paris{
+    color: darkblue;
+    font-size:20px;
+    background: aqua;
+}
+.Paris:hover{
+    background: chartreuse;
+}
+ 
+.you{
+   
+    background: rgb(112, 247, 211);
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+    border: 10px solid  green;
+    border-radius: 50px;
+    box-shadow: 0 0 0 0 green;
+    transition: 1s;
+}
+.nice1{
+    color: blue;
+    background: aqua;
+}
+.nice1:hover{
+ background: chartreuse  ; 
+}
+.books1{
+    color: blue;
+    background: aqua;
+}
+.books1:hover{
+    background: chartreuse;
+}
+.red{
+    color: blue;
+    background: cyan;
+}
+.red:hover{
+    background: chartreuse
+}

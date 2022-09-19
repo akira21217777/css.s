@@ -1,0 +1,36 @@
+h1{
+    color: red;
+    font-size: 60px;
+    font-weight: 30px;
+    font-family: 'Amatic SC', cursive;    
+}
+.cow{
+    color: red;
+}
+.nut{
+    color:purple;
+    background: rgb(238, 172, 255);
+}
+body{
+    background: url(https://i.gifer.com/3TW7.gif);
+}
+.nut:hover{
+    background: rgb(190, 59, 255);
+    color:   chartreuse;
+}
+.tens{
+    background: blueviolet;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+    border: 10px crimson;
+    border-radius: 50px;
+    box-shadow: -19px 20px 20px 20px blueviolet;
+    transition: 1s;
+}
+.tens:hover{
+    background: rgb(255, 47, 158);
+    box-shadow: 0 0 0 0  rgb(255, 47, 158)
+}

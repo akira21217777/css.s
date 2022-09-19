@@ -1,0 +1,19 @@
+h1{
+    color: firebrick;
+    font-size:60px;
+    font-weight:30px;
+    font-family: 'Amatic SC', cursive;
+}
+body{
+    background: url(rm209-adj-09-f.jpg) no-repeat center center / cover; 
+}
+.toy{
+    color: red;
+}
+p{
+    color: chocolate;
+    background: rgb(255, 179, 255)
+}
+p:hover{
+    background: rgb(210, 255, 106)
+}

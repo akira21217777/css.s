@@ -1,0 +1,17 @@
+h1{
+    color: red;
+    font-family: 'Amatic SC', cursive;
+}
+.fly{
+    color: red;
+}
+body{
+    background: url(SUYx.gif);
+}
+.cool{
+    color: chartreuse;
+    background: rgb(255, 45, 87)
+}
+.cool:hover{
+    background: violet
+}
